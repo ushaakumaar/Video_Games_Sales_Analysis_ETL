@@ -61,17 +61,16 @@ CREATE TABLE games (
 
 CREATE TABLE sales (
     game_id INT   NOT NULL,
-    na_sales_in_millions FLOAT   NULL,
-    pal_sales_in_millions FLOAT   NULL,
-    jp_sales_in_millions FLOAT   NULL,
-    other_sales_in_millions FLOAT   NULL,
-    global_sales_in_millions FLOAT   NULL,
-    total_shipped_in_millions FLOAT   NULL,
+    na_sales_in_millions float   NULL,
+    pal_sales_in_millions float   NULL,
+    japan_sales_in_millions float   NULL,
+    other_sales_in_millions float   NULL,
+    global_sales_in_millions float   NULL,
+    total_shipped_in_millions float   NULL,
     CONSTRAINT pk_sales PRIMARY KEY (
         game_id
      )
 );
-
 ALTER TABLE games ADD CONSTRAINT fk_games_developer_id FOREIGN KEY(developer_id)
 REFERENCES developer (developer_id);
 
