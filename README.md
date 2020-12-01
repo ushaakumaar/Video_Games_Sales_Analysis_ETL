@@ -31,9 +31,11 @@ Wrote a [Jupyter notebook](Transform.ipynb) python script to do the following cl
 ### Load
 ***
 Performed the following steps to Load the transformed video games data into PostgreSQL Database:
-•	Designed the database tables in normalized form and generated [ERD](Data_Modeling/ERD.png)
-•	Created a [SQL script](Data_Engineering/schema.sql) for table creation in PostgreSQL
-•	Wrote a [Jupyter notebook](Load.ipynb) python script to split the transformed video games data into multiple dataframes and loaded them into PostgreSQL Database tables
+-   Designed the database tables in normalized form and generated [ERD](Data_Modeling/ERD.png)
+-   Created a [SQL script](Data_Engineering/schema.sql) for table creation in PostgreSQL
+-   Wrote a [Jupyter notebook](Load.ipynb) python script to split the transformed video games data into multiple dataframes and loaded them into PostgreSQL Database tables
 
 ### Limitations
 ***
+-   Overall sales information for each game at the region/genre level only was available. Lack of sales history information for each game limits the analysis of sales fluctuation for each game over the years.
+
