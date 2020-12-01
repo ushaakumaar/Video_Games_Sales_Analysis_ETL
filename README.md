@@ -32,3 +32,4 @@ Wrote a [Jupyter notebook](Transform.ipynb) python script to do the following cl
 ***
 Performed the following steps to Load the transformed video games data into PostgreSQL Database:
 •	Designed the database tables in normalized form and generated [ERD](Data_Modeling/ERD.png)
+•	Created a [SQL script](Data_Engineering/schema.sql) for table creation in PostgreSQL
