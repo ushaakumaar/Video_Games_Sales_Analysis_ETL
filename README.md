@@ -2,7 +2,7 @@
 ## ETL Project
 ***
 
-[About](#about) | [Extract](#extract) | [Trasform](#transform) | [Load](#load) | [Limitations](#limitations) | [Programming Language / Applications Used](#programming-language-/-applications-used) | [Contributors](#contributors)
+[About](#about) | [Extract](#extract) | [Transform](#transform) | [Load](#load) | [Limitations](#limitations) | [Programming Language / Applications Used](#programming-language-/-applications-used) | [Contributors](#contributors)
 
 
 ### About
@@ -28,3 +28,5 @@ Wrote a [Jupyter notebook](Transform.ipynb) python script to do the following cl
 -   Converted Release date values to date format and Sales values to float format
 -   Wrote the transformed video games data into [CSV file](Output/Transformed_video_games_data.csv) to be used for the Load process
 
+### Load
+***
