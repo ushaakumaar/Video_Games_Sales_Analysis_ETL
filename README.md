@@ -39,3 +39,12 @@ Performed the following steps to Load the transformed video games data into Post
 ***
 -   Overall sales information for each game at the region/genre level only was available. Lack of sales history information for each game limits the analysis of sales fluctuation for each game over the years.
 
+### Programming Language / Applications Used
+***
+-   Python
+    *   BeautifulSoup
+    *   Splinter
+    *   Pandas
+    *   SQLAlchemy
+-   Jupyter Notebook
+-   PostgreSQL
