@@ -30,3 +30,4 @@ Wrote a [Jupyter notebook](Transform.ipynb) python script to do the following cl
 
 ### Load
 ***
+Performed the following steps to Load the transformed video games data into PostgreSQL Database:
