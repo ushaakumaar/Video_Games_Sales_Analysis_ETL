@@ -37,7 +37,7 @@ Performed the following steps to Load the transformed video games data into Post
 
 ### Limitations
 ***
--   Overall sales information for each game at the region/genre level only was available. Lack of sales history information for each game limits the analysis of sales fluctuation for each game over the years.
+-   Overall sales information for each game at the region/genre level only was available. Lack of sales history information for each game, limits the analysis of sales fluctuation for each game over the years.
 
 ### Programming Languages and Applications Used
 ***
@@ -48,3 +48,9 @@ Performed the following steps to Load the transformed video games data into Post
     *   SQLAlchemy
 -   Jupyter Notebook
 -   PostgreSQL
+
+### Contributors
+***
+- Usha Saravanakumar ([ushaakumaar](https://github.com/ushaakumaar))
+- Crystal Dalsania ([cdalsania](https://github.com/cdalsania))
+- Jame'l Brown ([JayyMaurice2020](https://github.com/JayyMaurice2020))
