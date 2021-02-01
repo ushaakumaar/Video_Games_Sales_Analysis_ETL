@@ -1,5 +1,4 @@
-# Video Games Sales Analysis
-## ETL Project
+# Video Games Sales Analysis - ETL
 ***
 
 [About](#about) | [Extract](#extract) | [Transform](#transform) | [Load](#load) | [Data Analysis](#data-analysis) | [Limitations](#limitations) | [Programming Language / Applications Used](#programming-languages-and-applications-used) | [Contributors](#contributors)
